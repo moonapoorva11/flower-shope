@@ -9,6 +9,7 @@ header{
     height: 60vh;
     background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)),
     url(../img/new\ 3.jpg );
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
     background-size: cover;
     background-attachment: fixed;
