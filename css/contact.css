@@ -55,6 +55,10 @@ left: 0;
     margin-left: 10px;
 padding: 20px;
 }
+.s-icon i:hover{
+    color: palevioletred;
+     
+  }
 .contact-cont{
    
     height:40vh ;
@@ -152,13 +156,21 @@ padding: 20px;
   
    
 }
+.working{
+    padding: 10px;
+    background-color: tomato;
+    height: 200px;
+    width: 150px;
+}
+.working:hover{
+    background-color: yellow;
+    width: 170px;
+    
+}
 .our-project h2{
     font-size: 40px;
 }
-.our-project h2:hover{
-    font-size: 45px;
-   
-}
+
 .our-project p{
     color:palevioletred;
     font-size: 20px;
